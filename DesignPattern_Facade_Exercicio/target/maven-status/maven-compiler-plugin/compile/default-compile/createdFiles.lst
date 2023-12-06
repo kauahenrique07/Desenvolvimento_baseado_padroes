@@ -1,0 +1,5 @@
+com\mycompany\designpattern_facade_exercicio\AccessToken.class
+com\mycompany\designpattern_facade_exercicio\TweetFetcher.class
+com\mycompany\designpattern_facade_exercicio\RequestToken.class
+com\mycompany\designpattern_facade_exercicio\SocialMediaManager.class
+com\mycompany\designpattern_facade_exercicio\TwitterAPIFacade.class
